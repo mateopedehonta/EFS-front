@@ -47,7 +47,7 @@ const Login: NextPage = () => {
     }
   }
 
-  const onError = (errors: any) => {
+  const onError = () => {
     // console.log({ errors })
   }
 
